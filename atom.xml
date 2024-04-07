@@ -6,7 +6,7 @@
   <link href="https://zycjagw004.github.io/atom.xml" rel="self"/>
   
   <link href="https://zycjagw004.github.io/"/>
-  <updated>2024-04-05T10:22:31.336Z</updated>
+  <updated>2024-04-07T14:34:10.406Z</updated>
   <id>https://zycjagw004.github.io/</id>
   
   <author>
@@ -15,6 +15,29 @@
   </author>
   
   <generator uri="https://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>基于butterfly的外挂标签引入</title>
+    <link href="https://zycjagw004.github.io/posts/9520.html"/>
+    <id>https://zycjagw004.github.io/posts/9520.html</id>
+    <published>2024-04-07T14:15:30.000Z</published>
+    <updated>2024-04-07T14:34:10.406Z</updated>
+    
+    <content type="html"><![CDATA[<h1 id="夏至"><a href="#夏至" class="headerlink" title="夏至"></a>夏至</h1><blockquote><p>一生的时间很短<br>  短到不过是两颗心之间的距离<br>  一生的时间也很长<br>  不如我们试着走走看</p></blockquote><h1 id="上标签引用"><a href="#上标签引用" class="headerlink" title="上标签引用"></a>上标签引用</h1><div class="tip "><p>default</p></div><div class="tip info"><p>info</p></div><div class="tip success"><p>success</p></div><div class="tip error"><p>error</p></div><div class="tip warning"><p>warning</p></div><div class="tip bolt"><p>bolt</p></div><div class="tip ban"><p>ban</p></div><div class="tip home"><p>home</p></div><div class="tip sync"><p>sync</p></div><div class="tip cogs"><p>cogs</p></div><div class="tip key"><p>key</p></div><div class="tip bell"><p>bell</p></div><div class="tip fa-atom"><p>自定义 font awesome 图标</p></div>]]></content>
+    
+    
+      
+      
+    <summary type="html">&lt;h1 id=&quot;夏至&quot;&gt;&lt;a href=&quot;#夏至&quot; class=&quot;headerlink&quot; title=&quot;夏至&quot;&gt;&lt;/a&gt;夏至&lt;/h1&gt;&lt;blockquote&gt;
+&lt;p&gt;一生的时间很短&lt;br&gt;  短到不过是两颗心之间的距离&lt;br&gt;  一生的时间也很长&lt;br&gt;  不如我们试着走走看&lt;/</summary>
+      
+    
+    
+    
+    
+    <category term="外挂标签" scheme="https://zycjagw004.github.io/tags/%E5%A4%96%E6%8C%82%E6%A0%87%E7%AD%BE/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello World</title>
