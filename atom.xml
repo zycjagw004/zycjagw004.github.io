@@ -3,11 +3,11 @@
   <title>羅`Blog</title>
   
   <subtitle>一花一叶，一菩提</subtitle>
-  <link href="http://example.com/atom.xml" rel="self"/>
+  <link href="https://zycjagw004.github.io/atom.xml" rel="self"/>
   
-  <link href="http://example.com/"/>
+  <link href="https://zycjagw004.github.io/"/>
   <updated>2024-04-05T10:22:31.336Z</updated>
-  <id>http://example.com/</id>
+  <id>https://zycjagw004.github.io/</id>
   
   <author>
     <name>羅菩提</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://example.com/posts/4a17b156.html"/>
-    <id>http://example.com/posts/4a17b156.html</id>
+    <link href="https://zycjagw004.github.io/posts/4a17b156.html"/>
+    <id>https://zycjagw004.github.io/posts/4a17b156.html</id>
     <published>2024-04-06T13:34:58.593Z</published>
     <updated>2024-04-05T10:22:31.336Z</updated>
     
