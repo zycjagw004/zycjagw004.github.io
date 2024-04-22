@@ -17,6 +17,25 @@
     
     
     <entry>
+      <title>主题标签 Tag Plugins</title>
+      <link href="/posts/1920.html"/>
+      <url>/posts/1920.html</url>
+      
+        <content type="html"><![CDATA[<h1 id="上标标签-tip"><a href="#上标标签-tip" class="headerlink" title="上标标签 tip"></a>上标标签 tip</h1><div class="tip "><p>default</p></div><div class="tip info"><p>info</p></div><div class="tip success"><p>success</p></div><div class="tip error"><p>error</p></div><div class="tip warning"><p>warning</p></div><div class="tip bolt"><p>bolt</p></div><div class="tip ban"><p>ban</p></div><div class="tip home"><p>home</p></div><div class="tip sync"><p>sync</p></div><div class="tip cogs"><p>cogs</p></div><div class="tip key"><p>key</p></div><div class="tip bell"><p>bell</p></div><div class="tip fa-atom"><p>自定义 font awesome 图标</p></div>]]></content>
+      
+      
+      
+        <tags>
+            
+            <tag> 标签 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>基于butterfly的外挂标签引入</title>
       <link href="/posts/9520.html"/>
       <url>/posts/9520.html</url>
@@ -36,6 +55,17 @@
     
   
   
+    
+    
+    <entry>
+      <title>我是abc页面</title>
+      <link href="/abc.html"/>
+      <url>/abc.html</url>
+      
+        <content type="html"><![CDATA[<p>我是abc页面</p>]]></content>
+      
+    </entry>
+    
     
     
     <entry>
